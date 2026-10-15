@@ -8,4 +8,4 @@ Official public skills for YSS micro-frontend ecosystem, indexed by [skills.sh](
 npx skills add iamyancong/yss-ui-skills --skill '*' -y
 ```
 
-Total Skills: 30
+Total Skills: 29
