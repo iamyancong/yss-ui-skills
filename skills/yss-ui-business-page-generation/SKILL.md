@@ -14,7 +14,7 @@ description: 指导生成或改造 Vue3 YSS UI CRUD、列表、表单、详情�
 
 ## 不适用场景
 
-- 只修改组件库内部组件实现：使用 `../component-development/SKILL.md`。
+- 只修改组件库内部组件实现：使用内部维护 Skill `component-development`（仅内部 sync:skills 分发可用）。
 - 只写文档、提交信息或发版流程，不生成业务页面代码。
 - 用户明确要求不用 YSS UI 组件库。
 

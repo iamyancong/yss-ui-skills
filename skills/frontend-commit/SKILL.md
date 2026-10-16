@@ -14,8 +14,8 @@ description: 分析并提交 Vue、React、TypeScript、JavaScript、Vite、微�
 
 ## 不适用场景
 
-- yss-ui 组件库仓库自身的提交与发版：使用 `../commit-linting/SKILL.md`。
-- Java、Spring Boot、Maven、Gradle 后端仓库：使用 `../java-backend-commit/SKILL.md`。
+- yss-ui 组件库仓库自身的提交与发版：使用内部维护 Skill `commit-linting`（仅内部 sync:skills 分发可用）。
+- Java、Spring Boot、Maven、Gradle 后端仓库：使用内部维护 Skill `java-backend-commit`（仅内部 sync:skills 分发可用）。
 - 仅请求代码实现，不涉及提交信息或 `git commit` 操作。
 - 无代码改动，或改动内容与提交请求不匹配。
 - 合并提交、发布提交和自动依赖机器人提交：遵循仓库专用流程，不套用本技能的常规消息模板。

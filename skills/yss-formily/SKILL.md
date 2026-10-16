@@ -15,7 +15,7 @@ description: 指导在 YSS UI 业务页面中正确使用 @yss-ui/components 的
 
 - 页面只有普通列表，不涉及表单：使用 `../page-list-module/SKILL.md`。
 - 只处理表格操作列或分页：使用 `../ytable-usage/SKILL.md`。
-- 组件库内部改造 YFormily 源码：使用 `../component-development/SKILL.md`。
+- 组件库内部改造 YFormily 源码：使用内部维护 Skill `component-development`（仅内部 sync:skills 分发可用）。
 
 ## 文档检索
 
