@@ -1,7 +1,7 @@
 {
-  "version": "1.10.2",
-  "gitCommit": "42cb5e4d0334f086d78ffdbd086314ca0ec1e68c",
-  "generatedAt": "2026-10-26T03:30:07.946Z",
+  "version": "1.10.3",
+  "gitCommit": "9576416b2e23cca1e3044bc15d05553d56eaf6c3",
+  "generatedAt": "2026-10-27T06:48:04.445Z",
   "skillsCount": 29,
   "skills": [
     "api-integration",
@@ -47,7 +47,7 @@
     "skills/formily-linkage-effects/SKILL.md": "7c5fd6c41d4a580bafcebcd1e8f67901fd4831fc7c4cf934c8fb267ba2a2fe4c",
     "skills/formily-mode-slot-detail/SKILL.md": "3597bd3d9ac8e218905281a23eb8547ac1e1e9b61e3f8cbed1958a52e0336091",
     "skills/formily-step-flow/SKILL.md": "3e75fa8ff4d2fc2dc7d62c714146d08ffba47a11c3372135a9a12e93f159cd6b",
-    "skills/frontend-commit/SKILL.md": "37f98e21af7d34128485b1ad9cae2d72b4126b46fa9f2e916be01ebba5b7f20d",
+    "skills/frontend-commit/SKILL.md": "d1a42f73811b6ddb0b02f0a144846c52dba96cb6878f643586da4230f127ce71",
     "skills/frontend-commit/agents/openai.yaml": "776b62d0801873161e5ab29d551dc18c6e3339d7b2ab49575bac6e46e8c5ac41",
     "skills/frontend-commit/references/scope-and-examples.md": "01921d0fb70c0c36276ad2a14672e9da347611700668d3830d2a6a0934201a0f",
     "skills/i18n-locale-management/SKILL.md": "abb9054aeb3068b1b2f55cd5d7ffeb2d566d457847f788b3aafb50f419e2a565",
