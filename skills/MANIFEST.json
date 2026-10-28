@@ -1,7 +1,7 @@
 {
-  "version": "1.10.4",
-  "gitCommit": "b44cfb1523ec02d5bb0172e3056b7bf9ed0ac216",
-  "generatedAt": "2026-10-28T02:10:58.379Z",
+  "version": "1.10.5",
+  "gitCommit": "f34ce81147a8c435dac258e142a9501325e7bdb4",
+  "generatedAt": "2026-10-28T06:52:09.576Z",
   "skillsCount": 29,
   "skills": [
     "api-integration",
@@ -36,7 +36,7 @@
   ],
   "files": {
     "skills/api-integration/SKILL.md": "a20869f241774112ba31ba0aadc613c2902ffad81c025fb2683bfe379f6d35ec",
-    "skills/component-selection-imports/SKILL.md": "6d20fe7de9d293bcd0c1927f369bacaa88008908036c673f2b4c1417c8f6a2b3",
+    "skills/component-selection-imports/SKILL.md": "364b96a698b0534423184015d1fb6ea3ef2c70f17495ee300c9cb1a4b988ab00",
     "skills/create-yss-app/SKILL.md": "da688fb272c77ec938a468df816b8a322c8f07fb2a8fafae07fe9464383d60ba",
     "skills/create-yss-app/references/params.md": "dc35219f1eb9385d569caed639e0985d1c046be349ca5dca5af5f7bac76ef8e1",
     "skills/create-yss-app/references/troubleshooting.md": "bf945618473deb0b2fa62378465c39337138fdf79440f08bb982ecb0f20e7d58",
@@ -79,7 +79,7 @@
     "skills/yss-formily/SKILL.md": "83e0d88ae974ad4ede8d04b25f28a6ac53da6b97e9493cc2dcc580c91b16cb0c",
     "skills/yss-frontend-dev/SKILL.md": "769e473a481a207f40a536652ac0a9ddb3ec275e3f4b6b6bb6992adaffb8b5af",
     "skills/yss-ui-business-page-generation/SKILL.md": "e7063b7b9a3f6ef3eb3e61c20f724fc4c90640b7a7725372dcc102c4b9501e86",
-    "skills/yss-ui-business-page-generation/references/component-map.md": "b89a92e433d509098c96e5e66377d30dba085038a8f8ad4e9cda5c70045fa486",
+    "skills/yss-ui-business-page-generation/references/component-map.md": "e8e659d717a0fc8e0bd5613bcb235a15662b5b0664082866c4bb794b6e444e4a",
     "skills/yss-ui-business-page-generation/references/hooks-map.md": "430fa9a75a9b82fa9c2b17259ff7aed446becaac0d0751c6f8490526db8b4bd9",
     "skills/yss-ui-business-page-generation/references/utils-map.md": "0e0268c3d26806d11d1641a614d6a5a88a681cba3e1a21187ac1ce0c468013ab",
     "skills/ytable-usage/SKILL.md": "92b1c19fd4e02d8bbe4c6c4bcc77982237f687a0f68a393e06ba0cec49ca1cb1",
