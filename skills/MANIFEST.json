@@ -1,7 +1,7 @@
 {
-  "version": "1.12.0",
-  "gitCommit": "e604a5598abc740d17562e10ca5a0455ae6697ac",
-  "generatedAt": "2026-11-19T01:36:22.345Z",
+  "version": "1.13.0",
+  "gitCommit": "c19f72eccff0021d7683788b9c81a3dbc5f8f054",
+  "generatedAt": "2026-11-20T05:51:30.069Z",
   "skillsCount": 29,
   "skills": [
     "api-integration",
@@ -36,7 +36,7 @@
   ],
   "files": {
     "skills/api-integration/SKILL.md": "a20869f241774112ba31ba0aadc613c2902ffad81c025fb2683bfe379f6d35ec",
-    "skills/component-selection-imports/SKILL.md": "1c236ccbd6c9e6ca89d2e4324c909d691834ae1ef661320e4adc06578133c06d",
+    "skills/component-selection-imports/SKILL.md": "d53b74bed1bacf8a64506cb347cbc417216a3771b0747800e1ec76dac9ca7068",
     "skills/create-yss-app/SKILL.md": "da688fb272c77ec938a468df816b8a322c8f07fb2a8fafae07fe9464383d60ba",
     "skills/create-yss-app/references/params.md": "dc35219f1eb9385d569caed639e0985d1c046be349ca5dca5af5f7bac76ef8e1",
     "skills/create-yss-app/references/troubleshooting.md": "bf945618473deb0b2fa62378465c39337138fdf79440f08bb982ecb0f20e7d58",
