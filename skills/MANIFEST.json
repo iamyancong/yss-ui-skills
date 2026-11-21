@@ -1,7 +1,7 @@
 {
-  "version": "1.13.0",
-  "gitCommit": "c19f72eccff0021d7683788b9c81a3dbc5f8f054",
-  "generatedAt": "2026-11-20T05:51:30.069Z",
+  "version": "1.14.0",
+  "gitCommit": "b3b3ce418d4a2bf2c1cbddb8ee60bd7b751aeea9",
+  "generatedAt": "2026-11-21T00:54:18.887Z",
   "skillsCount": 29,
   "skills": [
     "api-integration",
